@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('rxandroid-0.23.0.jar'))
